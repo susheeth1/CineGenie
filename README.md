@@ -78,9 +78,12 @@ gunicorn
 ---
 
 ## 📸 Preview
-![image](https://github.com/user-attachments/assets/b45aac7a-7b83-447b-be14-abf726513384)
-![image](https://github.com/user-attachments/assets/08afcee3-c4f3-4bfd-90d3-326e8017ad79)
-![image](https://github.com/user-attachments/assets/3d57b676-ff77-4b90-b963-b6c705f4f120)
+![Screenshot 2025-05-02 223909](https://github.com/user-attachments/assets/7ab64fff-bd9e-4975-9caf-8248d1686ffb)
+
+![Screenshot 2025-05-02 223948](https://github.com/user-attachments/assets/02d7463a-f6d1-4822-a3ee-f41a203a233d)
+
+![Screenshot 2025-05-02 224017](https://github.com/user-attachments/assets/aac36b9d-24b6-4b53-9449-79a49e72f064)
+
 
 
 
